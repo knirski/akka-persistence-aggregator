@@ -1,0 +1,5 @@
+name := "akka-persistence-aggregator"
+version := "0.1"
+scalaVersion := "2.12.14"
+organization := "pl.knirski"
+libraryDependencies += "com.typesafe.akka" %% "akka-persistence" % "2.6.16"
